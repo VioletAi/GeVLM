@@ -7,7 +7,6 @@ llm/
 #ignore annotations
 annotations/
 annotations_with_position/
-annotations_with_camera/
 
 #ignore output
 outputs/
