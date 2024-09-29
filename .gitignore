@@ -1,0 +1,16 @@
+# Ignore the checkpoint directory
+checkpoint/
+
+#ignore llm
+llm/
+
+#ignore annotations
+annotations/
+annotations_with_position/
+annotations_with_camera/
+
+#ignore output
+outputs/
+
+#ignore wandb
+wandb/
