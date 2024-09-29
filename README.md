@@ -3,7 +3,7 @@
 ## Configure LLM
 
 1. **Download the Model**:
-   - Visit [https://huggingface.co/lmsys/vicuna-7b-v1.5](https://huggingface.co/lmsys/vicuna-7b-v1.5) and download the model files.
+   - Visit [huggingface](https://huggingface.co/lmsys/vicuna-7b-v1.5) and download the model files.
 
 2. **Update `scripts/config.py`**:
    - Open the `scripts/config.py` file.
