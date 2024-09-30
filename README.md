@@ -11,3 +11,5 @@
      ```python
      llama_model_path = "/path/to/vicuna-7b-v1.5"
      ```
+## Checkpoint
+   - You May Download the Checkpoint of our best Model [here](https://tinyurl.com/yc2b6bm5).
